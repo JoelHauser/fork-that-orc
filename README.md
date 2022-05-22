@@ -29,10 +29,10 @@
   [Contact Me!](mailto:cory.c.hall@gmail.com)
 
   ## Credits
-  Cory Hall
+  Joel Hauser
 
   ## License
-  Copyright 2022 Cory Hall
+  Copyright 2022
 
         Permission is hereby granted, free of charge, to any person obtaining a copy of this 
         software and associated documentation files (the "Software"), to deal in the Software 
